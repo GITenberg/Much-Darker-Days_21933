@@ -1,0 +1,28 @@
+_repo: Much-Darker-Days_21933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: The work is a parody of Dark Days by Hugh Conway.
+gutenberg_issued: '2007-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conway, Hugh, 1847-1885. Dark days -- Parodies, imitations, etc.'
+- !lcc 'PR'
+title: Much Darker Days
+url: http://www.gutenberg.org/ebooks/21933
